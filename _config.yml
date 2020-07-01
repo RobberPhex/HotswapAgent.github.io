@@ -99,6 +99,6 @@ description: "Java unlimited runtime class and resource redefinition."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://hotswapagent.org
+#url: http://hotswapagent.org
 
 google_analytics: UA-89149423-1
